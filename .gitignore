@@ -1,0 +1,7 @@
+*.html
+*.css
+*.npy
+/blog-posts/
+/.vscode/
+*.pptx
+*.pdf
